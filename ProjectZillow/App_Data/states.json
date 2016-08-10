@@ -1,0 +1,182 @@
+{
+	"list" :
+	[{
+			"stateFull" : "Alabama",
+			"stateShort" : "AL"
+		}, {
+			"stateFull" : "Alaska",
+			"stateShort" : "AK"
+		}, {
+			"stateFull" : "American Samoa",
+			"stateShort" : "AS"
+		}, {
+			"stateFull" : "Arizona",
+			"stateShort" : "AZ"
+		}, {
+			"stateFull" : "Arkansas",
+			"stateShort" : "AR"
+		}, {
+			"stateFull" : "California",
+			"stateShort" : "CA"
+		}, {
+			"stateFull" : "Colorado",
+			"stateShort" : "CO"
+		}, {
+			"stateFull" : "Connecticut",
+			"stateShort" : "CT"
+		}, {
+			"stateFull" : "Delaware",
+			"stateShort" : "DE"
+		}, {
+			"stateFull" : "District Of Columbia",
+			"stateShort" : "DC"
+		}, {
+			"stateFull" : "Federated States Of Micronesia",
+			"stateShort" : "FM"
+		}, {
+			"stateFull" : "Florida",
+			"stateShort" : "FL"
+		}, {
+			"stateFull" : "Georgia",
+			"stateShort" : "GA"
+		}, {
+			"stateFull" : "Guam",
+			"stateShort" : "GU"
+		}, {
+			"stateFull" : "Hawaii",
+			"stateShort" : "HI"
+		}, {
+			"stateFull" : "Idaho",
+			"stateShort" : "ID"
+		}, {
+			"stateFull" : "Illinois",
+			"stateShort" : "IL"
+		}, {
+			"stateFull" : "Indiana",
+			"stateShort" : "IN"
+		}, {
+			"stateFull" : "Iowa",
+			"stateShort" : "IA"
+		}, {
+			"stateFull" : "Kansas",
+			"stateShort" : "KS"
+		}, {
+			"stateFull" : "Kentucky",
+			"stateShort" : "KY"
+		}, {
+			"stateFull" : "Louisiana",
+			"stateShort" : "LA"
+		}, {
+			"stateFull" : "Maine",
+			"stateShort" : "ME"
+		}, {
+			"stateFull" : "Marshall Islands",
+			"stateShort" : "MH"
+		}, {
+			"stateFull" : "Maryland",
+			"stateShort" : "MD"
+		}, {
+			"stateFull" : "Massachusetts",
+			"stateShort" : "MA"
+		}, {
+			"stateFull" : "Michigan",
+			"stateShort" : "MI"
+		}, {
+			"stateFull" : "Minnesota",
+			"stateShort" : "MN"
+		}, {
+			"stateFull" : "Mississippi",
+			"stateShort" : "MS"
+		}, {
+			"stateFull" : "Missouri",
+			"stateShort" : "MO"
+		}, {
+			"stateFull" : "Montana",
+			"stateShort" : "MT"
+		}, {
+			"stateFull" : "Nebraska",
+			"stateShort" : "NE"
+		}, {
+			"stateFull" : "Nevada",
+			"stateShort" : "NV"
+		}, {
+			"stateFull" : "New Hampshire",
+			"stateShort" : "NH"
+		}, {
+			"stateFull" : "New Jersey",
+			"stateShort" : "NJ"
+		}, {
+			"stateFull" : "New Mexico",
+			"stateShort" : "NM"
+		}, {
+			"stateFull" : "New York",
+			"stateShort" : "NY"
+		}, {
+			"stateFull" : "North Carolina",
+			"stateShort" : "NC"
+		}, {
+			"stateFull" : "North Dakota",
+			"stateShort" : "ND"
+		}, {
+			"stateFull" : "Northern Mariana Islands",
+			"stateShort" : "MP"
+		}, {
+			"stateFull" : "Ohio",
+			"stateShort" : "OH"
+		}, {
+			"stateFull" : "Oklahoma",
+			"stateShort" : "OK"
+		}, {
+			"stateFull" : "Oregon",
+			"stateShort" : "OR"
+		}, {
+			"stateFull" : "Palau",
+			"stateShort" : "PW"
+		}, {
+			"stateFull" : "Pennsylvania",
+			"stateShort" : "PA"
+		}, {
+			"stateFull" : "Puerto Rico",
+			"stateShort" : "PR"
+		}, {
+			"stateFull" : "Rhode Island",
+			"stateShort" : "RI"
+		}, {
+			"stateFull" : "South Carolina",
+			"stateShort" : "SC"
+		}, {
+			"stateFull" : "South Dakota",
+			"stateShort" : "SD"
+		}, {
+			"stateFull" : "Tennessee",
+			"stateShort" : "TN"
+		}, {
+			"stateFull" : "Texas",
+			"stateShort" : "TX"
+		}, {
+			"stateFull" : "Utah",
+			"stateShort" : "UT"
+		}, {
+			"stateFull" : "Vermont",
+			"stateShort" : "VT"
+		}, {
+			"stateFull" : "Virgin Islands",
+			"stateShort" : "VI"
+		}, {
+			"stateFull" : "Virginia",
+			"stateShort" : "VA"
+		}, {
+			"stateFull" : "Washington",
+			"stateShort" : "WA"
+		}, {
+			"stateFull" : "West Virginia",
+			"stateShort" : "WV"
+		}, {
+			"stateFull" : "Wisconsin",
+			"stateShort" : "WI"
+		}, {
+			"stateFull" : "Wyoming",
+			"stateShort" : "WY"
+		}
+	]
+}
