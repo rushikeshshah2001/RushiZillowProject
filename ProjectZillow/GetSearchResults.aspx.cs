@@ -79,7 +79,7 @@ namespace ProjectZillow
             string address = !String.IsNullOrWhiteSpace(txtAddress.Text.Trim()) ? txtAddress.Text.Trim() : "";
 
             string zipCode = !String.IsNullOrWhiteSpace(txtZip.Text.Trim()) ? txtZip.Text.Trim() : "";
-
+         
             string state = "";
             string city = "";
             string cityStateZip = "";
@@ -129,7 +129,6 @@ namespace ProjectZillow
                 XmlNode resultCode = doc.SelectSingleNode("//message/code");
                 XmlNode resultText = doc.SelectSingleNode("//message/text");
 
-
                 if (resultCode.InnerText == "0")
                 {
                     XmlNode responseNode = doc.SelectSingleNode("//response");                  
@@ -163,6 +162,7 @@ namespace ProjectZillow
 
         }
         #endregion
+               
 
     }
 }
